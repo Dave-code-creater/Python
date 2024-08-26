@@ -5,19 +5,16 @@
 # 4. Write a function to handle division
 
 def Addition(first_number, second_number) -> int:
-    return first_number + second_number
+    ##TODO: Write a function to handle the addition of two number
 
 def Subtraction(first_number, second_number) -> int:
-    return first_number - second_number
+    # TODO: Write another function to handle the substraction
 
 def Multiply(first_number, second_number) -> int:
-    return first_number * second_number
+    # TODO: Write a function to handle multiplication
 
 def Division(first_number, second_number) -> int:
-    if second_number == 0:
-        return "Action can not be performe"
-    else:
-        return first_number / second_number
+    # TODO: Write a function to handle division
 
 def main():
     First_Number = int(input("Please input the first value of the first number: "))
