@@ -2,4 +2,4 @@
 ### The function takes an integer as input and returns as coins and 
 
 def Changed(money: int) -> int:
-    #
+    pass
