@@ -1,4 +1,4 @@
-ID,LastName,FirstName,DOB,Physic,Math,Science
+id,lastname,firstname,dob,physic,math,science
 1,Brown,Sophia,2002-06-25,57,52,98
 2,Smith,Oliver,2000-06-26,100,88,100
 3,Anderson,Ava,2006-03-06,56,75,87
